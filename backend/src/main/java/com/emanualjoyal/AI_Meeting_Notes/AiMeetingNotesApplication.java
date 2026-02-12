@@ -8,6 +8,8 @@ public class AiMeetingNotesApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(AiMeetingNotesApplication.class, args);
+		System.out.println("Server has started on http//:localhost:8080");
 	}
+
 
 }
